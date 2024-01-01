@@ -1,0 +1,11 @@
+Window 1280 720
+Fonts assets/fonts/ShareTechMono-Regular.ttf 18 255 255 255
+Circle eRed 200 500 2 -1 255 0 0 100
+Rectangle Reed 50 450 0.2 -0.1 255 0 0 100 50
+Rectangle Bye 100 300 0.5 0.4 255 128 21 25 90 
+Circle eBye 50 100 0.8 0.2 212 131 32 20
+Circle say 400 500 0.2 -0.1 255 0 0 100
+Rectangle dye 300 450 0.2 -0.1 255 0 0 100 50
+Rectangle hei 125 134 0.5 0.4 255 128 21 25 90 
+Circle mommy 170 560 0.8 0.2 212 131 32 20
+
